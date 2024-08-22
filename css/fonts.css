@@ -1,0 +1,91 @@
+@font-face{
+	font-family: PT;
+	font-display: swap;
+	src: url("../fonts/PT-Root-UI_Bold.woff2") format("woff2"), url("../fonts/PT-Root-UI_Bold.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face{
+	font-family: SKSynonymGrotesk;
+	font-display: swap;
+	src: url("../fonts/SKSynonymGrotesk-Black.woff2") format("woff2"), url("../fonts/SKSynonymGrotesk-Black.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+}
+@font-face{
+	font-family: PT;
+	font-display: swap;
+	src: url("../fonts/PT-Root-UI_Light.woff2") format("woff2"), url("../fonts/PT-Root-UI_Light.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face{
+	font-family: PT;
+	font-display: swap;
+	src: url("../fonts/PT-Root-UI_Medium.woff2") format("woff2"), url("../fonts/PT-Root-UI_Medium.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face{
+	font-family: SKSynonymGrotesk;
+	font-display: swap;
+	src: url("../fonts/SKSynonymGrotesk-Bold.woff2") format("woff2"), url("../fonts/SKSynonymGrotesk-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face{
+	font-family: PT;
+	font-display: swap;
+	src: url("../fonts/PT-Root-UI_Regular.woff2") format("woff2"), url("../fonts/PT-Root-UI_Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face{
+	font-family: SKSynonymGrotesk;
+	font-display: swap;
+	src: url("../fonts/SKSynonymGrotesk-ExtraLight.woff2") format("woff2"), url("../fonts/SKSynonymGrotesk-ExtraLight.woff") format("woff");
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face{
+	font-family: SKSynonymGrotesk;
+	font-display: swap;
+	src: url("../fonts/SKSynonymGrotesk-ExtraBold.woff2") format("woff2"), url("../fonts/SKSynonymGrotesk-ExtraBold.woff") format("woff");
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face{
+	font-family: SKSynonymGrotesk;
+	font-display: swap;
+	src: url("../fonts/SKSynonymGrotesk-Regular.woff2") format("woff2"), url("../fonts/SKSynonymGrotesk-Regular.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face{
+	font-family: SKSynonymGrotesk;
+	font-display: swap;
+	src: url("../fonts/SKSynonymGrotesk-SemiBold.woff2") format("woff2"), url("../fonts/SKSynonymGrotesk-SemiBold.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face{
+	font-family: SKSynonymGrotesk;
+	font-display: swap;
+	src: url("../fonts/SKSynonymGrotesk-Medium.woff2") format("woff2"), url("../fonts/SKSynonymGrotesk-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face{
+	font-family: SKSynonymGrotesk;
+	font-display: swap;
+	src: url("../fonts/SKSynonymGrotesk-Light.woff2") format("woff2"), url("../fonts/SKSynonymGrotesk-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face{
+	font-family: SKSynonymGrotesk;
+	font-display: swap;
+	src: url("../fonts/SKSynonymGrotesk-Thin.woff2") format("woff2"), url("../fonts/SKSynonymGrotesk-Thin.woff") format("woff");
+	font-weight: 100;
+	font-style: normal;
+}
